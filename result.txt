@@ -1,0 +1,139 @@
+---------------------------------------------------------------------------------
+[Initial: Michele]
+[Group: 17]
+[Number: 5]
+[Grades: [5, 4, 5, 4]]
+
+[Initial: Maria]
+[Group: 78]
+[Number: 12]
+[Grades: [4, 4, 5, 5]]
+
+[Initial: Daria]
+[Group: 35]
+[Number: 7]
+[Grades: [5, 5, 3, 5]]
+
+[Initial: Fedor]
+[Group: 26]
+[Number: 5]
+[Grades: [4, 5, 5, 4]]
+
+[Initial: Greg]
+[Group: 15]
+[Number: 8]
+[Grades: [3, 4, 5, 5]]
+
+[Initial: Genrih]
+[Group: 45]
+[Number: 14]
+[Grades: [3, 5, 4, 3]]
+
+[Initial: Camilla]
+[Group: 78]
+[Number: 23]
+[Grades: [5, 4, 5, 3]]
+
+[Initial: Jack]
+[Group: 56]
+[Number: 78]
+[Grades: [5, 3, 3, 4]]
+
+[Initial: Kate]
+[Group: 10]
+[Number: 12]
+[Grades: [5, 4, 3, 4]]
+
+---------------------------------------------------------------------------------
+[Initial: Camilla]
+[Group: 78]
+[Number: 23]
+[Grades: [5, 4, 5, 3]]
+
+[Initial: Daria]
+[Group: 35]
+[Number: 7]
+[Grades: [5, 5, 3, 5]]
+
+[Initial: Fedor]
+[Group: 26]
+[Number: 5]
+[Grades: [4, 5, 5, 4]]
+
+[Initial: Genrih]
+[Group: 45]
+[Number: 14]
+[Grades: [3, 5, 4, 3]]
+
+[Initial: Greg]
+[Group: 15]
+[Number: 8]
+[Grades: [3, 4, 5, 5]]
+
+[Initial: Jack]
+[Group: 56]
+[Number: 78]
+[Grades: [5, 3, 3, 4]]
+
+[Initial: Kate]
+[Group: 10]
+[Number: 12]
+[Grades: [5, 4, 3, 4]]
+
+[Initial: Maria]
+[Group: 78]
+[Number: 12]
+[Grades: [4, 4, 5, 5]]
+
+[Initial: Michele]
+[Group: 17]
+[Number: 5]
+[Grades: [5, 4, 5, 4]]
+
+---------------------------------------------------------------------------------
+[Initial: Genrih]
+[Group: 45]
+[Number: 14]
+[Grades: [3, 5, 4, 3]]
+
+[Initial: Greg]
+[Group: 15]
+[Number: 8]
+[Grades: [3, 4, 5, 5]]
+
+[Initial: Michele]
+[Group: 17]
+[Number: 5]
+[Grades: [5, 4, 5, 4]]
+
+[Initial: Fedor]
+[Group: 26]
+[Number: 5]
+[Grades: [4, 5, 5, 4]]
+
+[Initial: Maria]
+[Group: 78]
+[Number: 12]
+[Grades: [4, 4, 5, 5]]
+
+[Initial: Daria]
+[Group: 35]
+[Number: 7]
+[Grades: [5, 5, 3, 5]]
+
+[Initial: Jack]
+[Group: 56]
+[Number: 78]
+[Grades: [5, 3, 3, 4]]
+
+[Initial: Camilla]
+[Group: 78]
+[Number: 23]
+[Grades: [5, 4, 5, 3]]
+
+[Initial: Kate]
+[Group: 10]
+[Number: 12]
+[Grades: [5, 4, 3, 4]]
+
+---------------------------------------------------------------------------------
